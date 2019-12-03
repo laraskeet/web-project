@@ -2,6 +2,9 @@ body{
   color: rgb(0,0,0);
   font-family: monospace;
   margin: 0px;
+}
+
+.content{
   padding-left: 30px;
 }
 
